@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=21&duration=3000&pause=1000&color=31F781&random=false&width=435&lines=Hello.+I+am+Nguyen+Minh+Toan.)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=toannguyen3107&color=green)
+![](https://komarev.com/ghpvc/?username=toannguyen3107&color=red)
 
 <picture>
   <source
