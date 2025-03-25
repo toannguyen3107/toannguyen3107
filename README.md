@@ -1,6 +1,6 @@
 ### Hi there, I'm **Nguyen Minh Toan**! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=21&duration=3000&pause=1000&color=31F781&random=false&width=435&lines=Cybersecurity+Specialist+%7C+Pentester+%7C+Red+Teamer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=21&duration=3000&pause=1000&color=31F781&random=false&width=435&lines=Pentester+%7C+Red+Teamer%7C+Bug+Hunter)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=toannguyen3107&color=red)  
 ![GitHub Followers](https://img.shields.io/github/followers/toannguyen3107?style=social)
