@@ -27,7 +27,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=toannguyen3107&show_icons=true&theme=dark" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=toannguyen3107&theme=dark" alt="GitHub Streak Stats"/>
+      [<img src="[https://github-readme-streak-stats.herokuapp.com/?user=toannguyen3107&theme=dark](https://streak-stats.demolab.com/?user=toannguyen3107&theme=dark)" alt="GitHub Streak Stats"/>](https://streak-stats.demolab.com/?user=toannguyen3107&theme=dark)
     </td>
   </tr>
 </table>
