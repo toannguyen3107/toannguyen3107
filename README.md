@@ -61,7 +61,7 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Toan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Toan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/toannguyen03)
 [![GitHub](https://img.shields.io/badge/GitHub-toannguyen3107-black?style=for-the-badge&logo=github)](https://github.com/toannguyen3107)
 [![Twitter](https://img.shields.io/badge/Twitter-@toannguyen3107-blue?style=for-the-badge&logo=twitter)](https://twitter.com/your-profile)
 
