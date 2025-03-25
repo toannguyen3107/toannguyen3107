@@ -24,16 +24,10 @@
 <table>
   <tr>
     <td>
-      <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api?username=toannguyen3107&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api?username=toannguyen3107&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api?username=toannguyen3107&show_icons=true" />
-      </picture>
+      <img src="https://github-readme-stats.vercel.app/api?username=toannguyen3107&show_icons=true&theme=dark" alt="GitHub Stats"/>
     </td>
     <td>
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=toannguyen3107&theme=dark"/>
-      </a>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=toannguyen3107&theme=dark" alt="GitHub Streak Stats"/>
     </td>
   </tr>
 </table>
