@@ -21,13 +21,8 @@
 
 ## 📊 GitHub Stats & Activity
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=toannguyen3107&show_icons=true&theme=dark" alt="GitHub Stats"/>
-    </td>
-  </tr>
-</table>
+[![Git Stats](https://github-readme-stats.vercel.app/api?username=toannguyen3107&show_icons=true&theme=react&border_color=61dafb&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toannguyen3107&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
