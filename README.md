@@ -21,7 +21,7 @@
 
 ## 📊 GitHub Stats & Activity
 <div>
-  <img width="50%" src="ttps://github-readme-stats-fast.vercel.app/api?username=toannguyen3107&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats-fast.vercel.app/api?username=toannguyen3107&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toannguyen3107&hide=javascript,typescript,html,css,cpp,php,swift,kotlin,dart,matlab,r,perl,scala,haskell,lua&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 </div>
 
