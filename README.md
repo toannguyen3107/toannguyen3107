@@ -15,7 +15,7 @@
 - 🔍 **Security Researcher** | Exploring vulnerabilities & bypass techniques
 - 📚 **Currently Learning**: Advanced Exploitation, Malware Analysis, AI for Security
 - 📢 **Knowledge Sharing**: Conducting sessions on Advanced Pentesting & Cyber Threats
-- 🎓 **Graduating Soon!** | HCMUT.
+- 🎓 **Graduated** | HCMUT.
 
 ---
 
