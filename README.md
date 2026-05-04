@@ -20,9 +20,9 @@
 ---
 
 ## 📊 GitHub Stats & Activity
-<div>
+<div align="center">
   <img width="50%" src="https://github-readme-stats-fast.vercel.app/api?username=toannguyen3107&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toannguyen3107&hide=javascript,typescript,html,css,cpp,php,swift,kotlin,dart,matlab,r,perl,scala,haskell,lua&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=toannguyen3107&hide=javascript,typescript,html,css,dart,matlab&title_color=00ff88&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&langs_count=8&layout=compact&hide_border=false&card_width=340" />
 </div>
 
 ---
